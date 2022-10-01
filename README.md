@@ -1,7 +1,7 @@
 # Hi there 👋
 
-# 🔭 I work with Arduino and Raspberry Pi
-# 🐍 I usually code with python
+### 🔭 I work with Arduino and Raspberry Pi
+### 🐍 I usually code with python
 
 <!--
 **Sanjeb/Sanjeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
